@@ -24,4 +24,4 @@ PowerShell, Nmap, Wireshark, curl, Windows Defender Güvenlik Duvarı
 Tüm testler izinli ve kontrollü, eğitim amaçlı bir ağ ortamında yapılmıştır.
 
 ## Rapor
-Detaylı rapor için: [Sistem_Guvenligi.pdf](Sistem_Guvenligi.pdf)
+Detaylı rapor için: [Sistem_Guvenligi_Raporu.pdf](Sistem_Guvenligi_Raporu.pdf)
